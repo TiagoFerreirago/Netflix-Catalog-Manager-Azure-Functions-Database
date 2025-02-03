@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LoveAzure\\hands-on-gerenciados-de-catalogos\\azure-function-save\\fnpostdatastorage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA4AC11-F88F-4EA9-9A87-298260A5EEA4}|fnpostdatastorage\\fnpostdatastorage.csproj|d:\\loveazure\\hands-on-gerenciados-de-catalogos\\azure-function-save\\fnpostdatastorage\\fnpostdatastorage\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA4AC11-F88F-4EA9-9A87-298260A5EEA4}|fnpostdatastorage\\fnpostdatastorage.csproj|solutionrelative:fnpostdatastorage\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA4AC11-F88F-4EA9-9A87-298260A5EEA4}|fnpostdatastorage\\fnpostdatastorage.csproj|d:\\loveazure\\hands-on-gerenciados-de-catalogos\\azure-function-save\\fnpostdatastorage\\fnpostdatastorage\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AA4AC11-F88F-4EA9-9A87-298260A5EEA4}|fnpostdatastorage\\fnpostdatastorage.csproj|solutionrelative:fnpostdatastorage\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA4AC11-F88F-4EA9-9A87-298260A5EEA4}|fnpostdatastorage\\fnpostdatastorage.csproj|d:\\loveazure\\hands-on-gerenciados-de-catalogos\\azure-function-save\\fnpostdatastorage\\fnpostdatastorage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA4AC11-F88F-4EA9-9A87-298260A5EEA4}|fnpostdatastorage\\fnpostdatastorage.csproj|solutionrelative:fnpostdatastorage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "D:\\LoveAzure\\hands-on-gerenciados-de-catalogos\\azure-function-save\\fnpostdatastorage\\fnpostdatastorage\\Function1.cs",
+              "RelativeDocumentMoniker": "fnpostdatastorage\\Function1.cs",
+              "ToolTip": "D:\\LoveAzure\\hands-on-gerenciados-de-catalogos\\azure-function-save\\fnpostdatastorage\\fnpostdatastorage\\Function1.cs",
+              "RelativeToolTip": "fnpostdatastorage\\Function1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:17:44.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "D:\\LoveAzure\\hands-on-gerenciados-de-catalogos\\azure-function-save\\fnpostdatastorage\\fnpostdatastorage\\local.settings.json",
+              "RelativeDocumentMoniker": "fnpostdatastorage\\local.settings.json",
+              "ToolTip": "D:\\LoveAzure\\hands-on-gerenciados-de-catalogos\\azure-function-save\\fnpostdatastorage\\fnpostdatastorage\\local.settings.json",
+              "RelativeToolTip": "fnpostdatastorage\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAADaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T12:46:55.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LoveAzure\\hands-on-gerenciados-de-catalogos\\azure-function-save\\fnpostdatastorage\\fnpostdatastorage\\Program.cs",
+              "RelativeDocumentMoniker": "fnpostdatastorage\\Program.cs",
+              "ToolTip": "D:\\LoveAzure\\hands-on-gerenciados-de-catalogos\\azure-function-save\\fnpostdatastorage\\fnpostdatastorage\\Program.cs",
+              "RelativeToolTip": "fnpostdatastorage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:33:34.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
